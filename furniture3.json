@@ -1,0 +1,23 @@
+[
+    {
+        "id": 7,
+        "title": "가구7",
+        "imgUrl": "img/sc2_intro.jpg",
+        "content": "가구 7 입니다.",
+        "price": 700000
+    },
+    {
+        "id": 8,
+        "title": "가구8",
+        "imgUrl": "img/sc2_intro.jpg",
+        "content": "가구 8 입니다.",
+        "price": 800000
+    },
+    {
+        "id": 9,
+        "title": "가구9",
+        "imgUrl": "img/sc2_intro.jpg",
+        "content": "가구 9 입니다.",
+        "price": 900000
+    }
+]

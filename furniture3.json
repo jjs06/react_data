@@ -1,30 +1,30 @@
 [
     {
         "id": 9,
-        "title": "가구9",
+        "title": "4-tier wooden shelf",
         "imgUrl": "img/sc7_p9.jpg",
         "content": "가구 9 입니다.",
-        "price": 900000
+        "price": 50
     },
     {
         "id": 10,
-        "title": "가구10",
+        "title": "Simple Kitchin Set",
         "imgUrl": "img/sc7_p10.jpg",
         "content": "가구 10 입니다.",
-        "price": 1000000
+        "price": 300
     },
     {
         "id": 11,
-        "title": "가구11",
+        "title": "Cozy Latan Sofa",
         "imgUrl": "img/sc7_p11.jpg",
         "content": "가구 11 입니다.",
-        "price": 1100000
+        "price": 280
     },
     {
         "id": 12,
-        "title": "가구12",
+        "title": "Wolden Round Mirror",
         "imgUrl": "img/sc7_p12.jpg",
         "content": "가구 12 입니다.",
-        "price": 1200000
+        "price": 80
     }
 ]

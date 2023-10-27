@@ -2,28 +2,28 @@
     {
         "id": 9,
         "title": "가구9",
-        "imgUrl": "img/sc3_p1.jpg",
+        "imgUrl": "img/sc7_p9.jpg",
         "content": "가구 9 입니다.",
         "price": 900000
     },
     {
         "id": 10,
         "title": "가구10",
-        "imgUrl": "img/sc3_p1.jpg",
+        "imgUrl": "img/sc7_p10.jpg",
         "content": "가구 10 입니다.",
         "price": 1000000
     },
     {
         "id": 11,
         "title": "가구11",
-        "imgUrl": "img/sc3_p1.jpg",
+        "imgUrl": "img/sc7_p11.jpg",
         "content": "가구 11 입니다.",
         "price": 1100000
     },
     {
         "id": 12,
         "title": "가구12",
-        "imgUrl": "img/sc3_p1.jpg",
+        "imgUrl": "img/sc7_p12.jpg",
         "content": "가구 12 입니다.",
         "price": 1200000
     }

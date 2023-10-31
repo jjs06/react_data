@@ -2,28 +2,28 @@
     {
         "id": 5,
         "title": "Wolden Round Table",
-        "imgUrl": "process.env.PUBLIC_URL/img/sc7_p5.jpg",
+        "imgUrl": "/img/sc7_p5.jpg",
         "content": "가구 5 입니다.",
         "price": 500
     },
     {
         "id": 6,
         "title": "White Round Table",
-        "imgUrl": "process.env.PUBLIC_URL/img/sc7_p6.jpg",
+        "imgUrl": "/img/sc7_p6.jpg",
         "content": "가구 6 입니다.",
         "price": 500
     },
     {
         "id": 7,
         "title": "Sofa Table Set",
-        "imgUrl": "process.env.PUBLIC_URL/img/sc7_p7.jpg",
+        "imgUrl": "/img/sc7_p7.jpg",
         "content": "가구 7 입니다.",
         "price": 850
     },
     {
         "id": 8,
         "title": "Simple Wouldn Hanger",
-        "imgUrl": "process.env.PUBLIC_URL/img/sc7_p8.jpg",
+        "imgUrl": "/img/sc7_p8.jpg",
         "content": "가구 8 입니다.",
         "price": 80
     }
